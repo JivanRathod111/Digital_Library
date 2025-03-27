@@ -1,0 +1,28 @@
+/* Raven's Wing Palette */
+.bg-deep-black { background-color: #000000; }
+.text-deep-black { color: #000000; }
+
+.bg-dark-gray { background-color: #1A1A1A; }
+.text-dark-gray { color: #1A1A1A; }
+
+.bg-mid-gray { background-color: #404040; }
+.text-mid-gray { color: #404040; }
+
+.text-soft-gray { color: #BFBFBF; }
+.bg-soft-gray { background-color: #BFBFBF; }
+
+.hover-accent:hover { background-color: #808080; color: #000000; }
+
+.input-field {
+    background-color: #404040;
+    color: #BFBFBF;
+    padding: 10px;
+    border-radius: 4px;
+    width: 100%;
+    border: none;
+}
+
+.input-field:focus {
+    outline: none;
+    border: 2px solid #808080;
+}
